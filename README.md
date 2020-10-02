@@ -1,7 +1,7 @@
-# hello-hacktoberfest
+# hello-hacktoberfest 2020
 Hacktoberfesters here.
 
-## Fork this repository
+## Fork this repository for hacktoberfest 2020
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
